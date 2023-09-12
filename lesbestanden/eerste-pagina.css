@@ -1,0 +1,13 @@
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.copyright-name {
+    font-weight: bold;
+    font-style: italic;
+}
+
